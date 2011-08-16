@@ -1,7 +1,7 @@
 jQTouch
 =======
 
-Create powerful mobile apps with just HTML, CSS, and jQuery.
+Create powerful mobile apps with just HTML, CSS, and jQuery..
 ------------------------------------------------------------
 
 jQTouch is a jQuery plugin with native animations, automatic navigation, and themes for mobile WebKit browsers like iPhone, Nexus One, and Palm Pre.
